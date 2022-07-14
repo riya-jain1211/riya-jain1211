@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-j-285272168/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jain62417@gmail.com)
-[![PowerBi](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/utkarsh.gupta3565#!/?newProfile=&activeTab=0)
+[![PowerBI](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/profile/utkarsh.gupta3565#!/?newProfile=&activeTab=0)
 <!-- ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)(https://hub.docker.com/u/utkarshgupta611)
 </p> -->
 
@@ -14,7 +14,7 @@
 
 ## **About Me** 😎
  
-- 🔭 I’m currently doing project on ... <b>PowerBi and MySQL</b>
+- 🔭 I’m currently doing project on ... <b>PowerBI and MySQL</b>
 - 🌱 I’m currently learning ... <b>Azure cloud</b>
 - 👯 I’m looking to collaborate on ... <b>Dashboards Creation </b>
 - 🤔 I’m looking for help with ... <b>Azure and forecasting</b> 
