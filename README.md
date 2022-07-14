@@ -31,7 +31,7 @@
 ![Mysql](https://img.shields.io/badge/-MySql-blue?&style=for-the-badge&logo=Mysql&logoColor=white)
 
 ### <h4>DATA TOOL</h4>
-![PoweBi](https://img.shields.io/badge/-Tableau-blue?&style=for-the-badge&logo=tableau&logoColor=white)
+![PoweBI](https://img.shields.io/badge/-PowerBI-yellow&logo=PowerBI&logoColor=yellow)
 ![MS-Excel](https://img.shields.io/badge/-MsExcel-green?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![Natural language processing](https://img.shields.io/badge/-NLP-red?&style=for-the-badge&logo=Natural_language_processing&logoColor=white)
 
